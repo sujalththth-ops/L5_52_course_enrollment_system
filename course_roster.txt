@@ -1,0 +1,1 @@
+{'CS101': {'title': 'Data Structures', 'seats': 2, 'fee': 500.0, 'is_closed': False}, 'CS202': {'title': 'Operating Systems', 'seats': 1, 'fee': 550.0, 'is_closed': False}, 'CS303': {'title': 'Compiler Design', 'seats': 4, 'fee': 600.0, 'is_closed': False}}
